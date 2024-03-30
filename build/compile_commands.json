@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/anna/Документы/kur/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/sfmlapp.dir/main.cpp.o -c /home/anna/Документы/kur/main.cpp",
+  "file": "/home/anna/Документы/kur/main.cpp"
+},
+{
+  "directory": "/home/anna/Документы/kur/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/sfmlapp.dir/GameMenu.cpp.o -c /home/anna/Документы/kur/GameMenu.cpp",
+  "file": "/home/anna/Документы/kur/GameMenu.cpp"
+},
+{
+  "directory": "/home/anna/Документы/kur/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/sfmlapp.dir/Players.cpp.o -c /home/anna/Документы/kur/Players.cpp",
+  "file": "/home/anna/Документы/kur/Players.cpp"
+},
+{
+  "directory": "/home/anna/Документы/kur/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/sfmlapp.dir/Engine.cpp.o -c /home/anna/Документы/kur/Engine.cpp",
+  "file": "/home/anna/Документы/kur/Engine.cpp"
+}
+]

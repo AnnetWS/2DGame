@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/kur.dir/mai.cpp.o -o kur 

@@ -1,0 +1,3 @@
+/home/anna/Документы/kur/build/CMakeFiles/sfmlapp.dir
+/home/anna/Документы/kur/build/CMakeFiles/edit_cache.dir
+/home/anna/Документы/kur/build/CMakeFiles/rebuild_cache.dir

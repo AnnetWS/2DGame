@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sfmlapp.dir/main.cpp.o CMakeFiles/sfmlapp.dir/GameMenu.cpp.o CMakeFiles/sfmlapp.dir/Players.cpp.o CMakeFiles/sfmlapp.dir/Engine.cpp.o -o sfmlapp  -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system 
